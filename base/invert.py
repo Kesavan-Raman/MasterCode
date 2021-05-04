@@ -1,6 +1,3 @@
-# python 3.6
-"""Revised from Inverts given images to latent codes with In-Domain GAN Inversion."""
-
 import os
 import argparse
 from tqdm import tqdm
